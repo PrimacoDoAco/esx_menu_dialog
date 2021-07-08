@@ -11,3 +11,5 @@ To turn off the sound:
 
 1st: Go to esx_menu_dialog/client/main.lua (line 9)
 2nd:Change from true to false.
+
+Made By: Primaço#4977        <-- (Discord)
