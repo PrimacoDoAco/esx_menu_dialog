@@ -4,7 +4,7 @@
 		'<div id="menu_{{_namespace}}_{{_name}}" class="dialog {{#isBig}}big{{/isBig}}">' +
 		'<div class="title" >{{title}}</div>' +
 		'<div class="subtitle" >Input:</div>' +
-		'{{#isDefault}}<input type="text" name="value" placeholder="{{title}}" id="inputText"/>{{/isDefault}}' +
+		'{{#isDefault}}<input type="text" name="value" placeholder="" id="inputText"/>{{/isDefault}}' +
 		'{{#isBig}}<textarea name="value"/>{{/isBig}}' +
 		'<button type="button" name="submit">Submit</button>'
 	'</div>' +
